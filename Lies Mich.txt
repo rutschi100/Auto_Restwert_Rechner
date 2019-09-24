@@ -1,0 +1,9 @@
+****************************************
+* Bemerkung
+****************************************
+
+Wenn du dieses Paket heruntergeladen hast um das Programm zu nutzen, gehe in den Ordner "Motorfahrzeug Restwert Rechner"
+
+Wenn du dieses Paket heruntergeladen hast um den Code anzusehen, nutze gleich den ganzer Ordner als Projektordner mit Eclipe.
+
+Ich bin ein Softwareentwickler in der Ausbildung und habe dieses Programm zur Übungszwecke programmiert.

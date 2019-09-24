@@ -1,0 +1,13 @@
+****************************************
+* ANLEITUNG
+****************************************
+
+Das Programm das du erhalten hast lauft mit Java 1.8
+Du kannst es ohne intallation benutzen, insofern du bereits einmal Java installtiert hast.
+Versuche das Programm zu öffnen, dass du erhalten hast. 
+Funktioniert es nicht? Installiere Java mit der beigelegtem Installations Datei.
+
+Möglicherweise zeigt Windows an, dass es eine unsichere Datei ist. Dies liegt daran, dass dieses Programm
+nicht registriert ist.
+
+Die Restlichen Dateien sind lediglich die Programmierungsdateien.
